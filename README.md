@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğu
 
 ## **Installation** 
 -------
-`(https://github.com/Emrefndk87/kodluyoruzilkrepo.git)`
+```git clone https://github.com/Emrefndk87/kodluyoruzilkrepo.git```
 
 ## **Usage**
 ---
