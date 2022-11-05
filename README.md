@@ -4,12 +4,11 @@ Bu repo [Kodluyoruz](https://kodluyoruz.com) Front-End Eğitiminde oluşturduğu
 
 ## **Installation** 
 -------
-(https://github.com/Emrefndk87/kodluyoruzilkrepo.git)
+`(https://github.com/Emrefndk87/kodluyoruzilkrepo.git)`
 
 ## **Usage**
 ---
-Projeyi klonladıktan sonra Visual Studio Code programında açınız.
-    
+Projeyi klonladıktan sonra Visual Studio Code programında açınız.    
 
 ## **Contributing**
 ---
@@ -18,4 +17,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ---
 [patika.dev](https://patika.dev)
 
-    
+
+
